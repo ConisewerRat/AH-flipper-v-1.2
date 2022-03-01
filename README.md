@@ -32,3 +32,6 @@ When can we expect more updates?
 
 Is it free?
 - Yup! it will always be free.
+
+How can we make sure it isn't a virus?
+- We don't hide anything, its open source! You can also run the files through VirusTotal: https://www.virustotal.com
