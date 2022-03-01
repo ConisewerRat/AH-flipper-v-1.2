@@ -4,13 +4,13 @@ Prefix /af
 
 # Features:
 Auction Flipper:
-Helps you buy items faster!
+- Helps you buy items faster!
 
 Auto Sniper:
-Auto Buys Under Valued Items (You can change the min profit and more within the mod)
+- Auto Buys Under Valued Items (You can change the min profit and more within the mod)
 
 Anti Loss:
-Won't buy skins and other items that could be manipulated.
+- Won't buy skins and other items that could be manipulated.
 
 (listing more soon!)
 
