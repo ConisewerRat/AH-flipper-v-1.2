@@ -1,9 +1,6 @@
 # Auction Flipper 1.4
-
 # Commands
-
 - /AF
-/AF HELP
 
 # Features:
 Auction Flipper:
