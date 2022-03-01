@@ -4,7 +4,7 @@ Prefix /af
 
 # Features:
 Auction Flipper:
-- Helps you buy items faster!
+- Shows you Flippable items.
 
 Auto Sniper:
 - Auto Buys Under Valued Items (You can change the min profit and more within the mod)
