@@ -1,4 +1,4 @@
-# Auction Flipper 1.4
+# Auction Flipper 1.5
 # Commands
 - /AF
 
